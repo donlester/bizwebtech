@@ -1,4 +1,4 @@
 bizwebtech
 ==========
 
-wweb based business technology code modules
+web based business technology code modules for use in larger projects that implement business processes on the web.
